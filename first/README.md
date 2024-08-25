@@ -1,0 +1,1 @@
+I'm using linux so it was easier to use `nasm` instead of DOSBox. Hope it is not a problem.
